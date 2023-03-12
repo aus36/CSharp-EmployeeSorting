@@ -1,0 +1,10 @@
+Worker type	Employee ID	First name	Last name	Offer extended date	Offer acceptance date	Employment date	Job title	Monthly salary	Retirement program	Retirement date
+Retiree	47	Steve	Marshall		2/3/1999			TRS	2/1/2022
+Employee	12	Sally	Bannon			5/30/2018	Bus Driver	2222.22		
+PreHire	432	Joe	Sorg	1/2/2023	1/4/2023	1/31/2023				
+PreHire	452	Larry	Brown	1/3/2023	1/11/2023	1/17/2023				
+Retiree	77	Betty	Jenkins			11/4/2000			TRS	9/15/2020
+Employee	112	Ann	Duncan	5/15/2002	Assistant Professor	4444.44		
+PreHire	555	Joe	Sorg	12/15/2022	1/4/2023	1/17/2023				
+Employee	88	Jim	Smith			8/15/2020	IT Associate II	5555.55		
+Retiree	23	Alex	Mizer			3/2/1980			ORP	6/1/2009

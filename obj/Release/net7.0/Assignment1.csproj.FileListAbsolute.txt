@@ -1,0 +1,15 @@
+/Users/austinhale/Desktop/Objectiew/Assignment1/bin/Release/net7.0/Assignment1
+/Users/austinhale/Desktop/Objectiew/Assignment1/bin/Release/net7.0/Assignment1.deps.json
+/Users/austinhale/Desktop/Objectiew/Assignment1/bin/Release/net7.0/Assignment1.runtimeconfig.json
+/Users/austinhale/Desktop/Objectiew/Assignment1/bin/Release/net7.0/Assignment1.dll
+/Users/austinhale/Desktop/Objectiew/Assignment1/bin/Release/net7.0/Assignment1.pdb
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.csproj.AssemblyReference.cache
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.AssemblyInfoInputs.cache
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.AssemblyInfo.cs
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.dll
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/refint/Assignment1.dll
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.pdb
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/Assignment1.genruntimeconfig.cache
+/Users/austinhale/Desktop/Objectiew/Assignment1/obj/Release/net7.0/ref/Assignment1.dll

@@ -1,0 +1,26 @@
+<PreHires>
+	<PreHire>
+		<EmployeeID>452</EmployeeID>
+		<FirstName>Larry</FirstName>
+		<LastName>Brown</LastName>
+		<EmploymentDate>1/17/2023</EmploymentDate>
+		<OfferDate>1/3/2023</OfferDate>
+		<AcceptDate>1/11/2023</AcceptDate>
+	</PreHire>
+	<PreHire>
+		<EmployeeID>432</EmployeeID>
+		<FirstName>Joe</FirstName>
+		<LastName>Sorg</LastName>
+		<EmploymentDate>1/31/2023</EmploymentDate>
+		<OfferDate>1/2/2023</OfferDate>
+		<AcceptDate>1/4/2023</AcceptDate>
+	</PreHire>
+	<PreHire>
+		<EmployeeID>555</EmployeeID>
+		<FirstName>Joe</FirstName>
+		<LastName>Sorg</LastName>
+		<EmploymentDate>1/17/2023</EmploymentDate>
+		<OfferDate>12/15/2022</OfferDate>
+		<AcceptDate>1/4/2023</AcceptDate>
+	</PreHire>
+</PreHires>

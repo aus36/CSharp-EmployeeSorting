@@ -1,0 +1,26 @@
+<Retirees>
+	<Retiree>
+		<EmployeeID>47</EmployeeID>
+		<FirstName>Steve</FirstName>
+		<LastName>Marshall</LastName>
+		<EmploymentDate>2/3/1999</EmploymentDate>
+		<RetirementProgram>TRS</RetirementProgram>
+		<RetirementDate>2/1/2022</RetirementDate>
+	</Retiree>
+	<Retiree>
+		<EmployeeID>77</EmployeeID>
+		<FirstName>Betty</FirstName>
+		<LastName>Jenkins</LastName>
+		<EmploymentDate>11/4/2000</EmploymentDate>
+		<RetirementProgram>TRS</RetirementProgram>
+		<RetirementDate>9/15/2020</RetirementDate>
+	</Retiree>
+	<Retiree>
+		<EmployeeID>23</EmployeeID>
+		<FirstName>Alex</FirstName>
+		<LastName>Mizer</LastName>
+		<EmploymentDate>3/2/1980</EmploymentDate>
+		<RetirementProgram>ORP</RetirementProgram>
+		<RetirementDate>6/1/2009</RetirementDate>
+	</Retiree>
+</Retirees>
